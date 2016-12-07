@@ -1,0 +1,292 @@
+**All**
+[] All Boss Trophies
+[] All Boss Treasure Bags
+[] All Boss Items
+
+**Boss Treasure Bags**
+[] King Slime
+[] Eye of Cthulu
+[] Eater of Worlds/Brain of Cthulu
+[] Queen Bee
+[] Wall of Flesh
+[] Skeletron
+[] The Twins
+[] The Destroyer
+[] Skeletron Prime
+[] Plantera
+[] Golem
+[] Duke Fishron
+[] Moon Lord
+[] Betsy
+
+**Boss Trophies**
+[] King Slime
+[] Eye of Cthulu
+[] Eater of Worlds/Brain of Cthulu
+[] Queen Bee
+[] Wall of Flesh
+[] Skeletron
+[] The Twins
+[] The Destroyer
+[] Skeletron Prime
+[] Plantera
+[] Golem
+[] Duke Fishron
+[] Lunatic Cultist
+[] Moon Lord
+[] Betsy
+
+**Boss Items**
+[] All Boss Masks
+	[] Eater of Worlds/Brain of Cthulu
+	[] King Slime
+	[] Skeletron
+	[] Wall of Flesh
+	[] Moon Lord
+	[] Ogre
+	[] Destroyer
+	[] Eye of Cthulu
+	[] Plantera
+	[] Skeletron Prime
+	[] Betsy
+	[] Duke Fishron
+	[] Golem
+	[] Queen Bee
+	[] Twin
+	[] Ancient Cultist
+	[] Dark Mage
+[] King Slime
+	[] Solidifier
+	[] Ninja Armor
+		[] Hood
+		[] Shirt
+		[] Pants
+	[] Slimy Saddle
+	[] Slime Hook
+	[] Slime Gun
+[] Eye of Cthulu
+	[] Binoculars
+[] Eater of Worlds/Brain of Cthulu
+	[] Eater's Bone/Bone Rattle
+[] Queen Bee
+	[] Bee Gun
+	[] Bee Keeper
+	[] The Bee's Knees
+	[] Honey Comb
+	[] Hive Wand
+	[] Bee Outfit
+		[] Hat
+		[] Shirt
+		[] Pants
+	[] Nectar
+	[] Honeyed Goggles
+[] Skeletron
+	[] Book of Souls
+	[] Skeletron Hand
+[] Wall of Flesh
+	[] Pwnhammer
+	[] Breaker Blade
+	[] Clockwork Assault Rifle
+	[] Laser Rifle
+	[] Emblems
+		[] Warrior
+		[] Sorcerer
+		[] Ranger
+		[] Summoner
+[] Plantera
+	[] Seedling
+	[] The Axe
+	[] Pygmy Staff
+	[] Grenade Launcher
+	[] Venus Magnum
+	[] Nettle Burst
+	[] Leaf Blower
+	[] Flower Pow
+	[] Wasp Gun
+	[] Seedler
+	[] Thorn Hook
+[] Golem
+	[] Stynger
+	[] Possessed Hatchet
+	[] Sun Stone
+	[] Eye of the Golem
+	[] Picksaw
+	[] Heat Ray
+	[] Staff of the Earth
+	[] Golem Fist
+[] Duke Fishron
+	[] Fishron Wings
+	[] Bubble Gun
+	[] Flairon
+	[] Razorblade Typhoon
+	[] Tempest Staff
+	[] Tsunami
+[] Moon Lord
+	[] Meowmere
+	[] Terrarian
+	[] Star Wrath
+	[] S.D.M.G
+	[] Celebration
+	[] Last Prism
+	[] Lunar Flare
+	[] Rainbow Crystal
+	[] Lunar Portal Staff
+[] Betsy
+	[] Aerial Bane
+	[] Sky Dragon's Fury
+	[] Betsy's Wrath
+	[] Flying Dragon
+	[] Betsy's Wings
+
+**Event**
+[] Pumpkin Moon
+[] Frost Moon
+[] Pirate Invasion
+[] Martian Madness
+[] Old One's Army
+
+**Armor**
+[] All Sets of Armor on Display
+[] Wooden
+	[] Regular
+	[] Rich Mahogany
+	[] Boreal
+	[] Palm
+	[] Ebonwood
+	[] Shadewood
+	[] Pearlwood
+[] Angler
+[] Cactus
+[] Metal
+	[] Copper/Tin
+	[] Iron/Lead
+	[] Silver
+	[] Tungsten
+	[] Gold/Platinum
+	[] Meteor
+	[] Shadow/Crimson
+	[] Molten
+	[] Cobalt/Palladium
+	[] Mythril/Orichalcum
+	[] Adamantite/Titanium
+[] Mining
+[] Rain
+[] Eskimo
+[] Pink Eskimo
+[] Pumpkin
+[] Ninja
+[] Fossil
+[] Obsidian
+[] Bee
+[] Jungle
+[] Spider
+[] Spooky
+[] Tiki
+[] Frost
+[] Forbidden
+[] Tavernkeep
+	[] Apprentice
+	[] Monk
+	[] Huntress
+	[] Squire
+	[] Dark Artist
+	[] Shinobi
+	[] Red Riding
+	[] Valhalla Knight
+[] Hallowed
+[] Chlorophyte
+[] Turtle
+[] Beetle
+[] Shroomite
+[] Spectre
+[] Ancient Manipulator
+	[] Solar Flare
+	[] Vortex
+	[] Nebula
+	[] Stardust
+[] Miscellaneous
+	[] Wizard Set
+		[] Magic Hat
+		[] Wizard Hat
+		[] Gem Robes
+			[] Amythyst Robe
+			[] Topaz Robe
+			[] Sapphire Robe
+			[] Emerald Robe
+			[] Ruby Robe
+			[] Diamond Robe
+		[] Gypsy Robe
+	[] Empty Bucket
+	[] Goggles
+	[] Diving Helmet
+	[] Gi
+	[] Viking Helmet
+	[] Night Vision Helmet
+	
+**Wealth**
+
+**Building**
+[] Greenhouse/Farm
+[] Storage
+[] House/NPC
+	[] Guide
+	[] Merchant
+	[] Nurse
+	[] Demolitionist
+	[] Dye Trader
+	[] Dryad
+	[] Tavernkeep
+	[] Arms Dealer
+	[] Stylist
+	[] Painter
+	[] Angler
+	[] Goblin Tinkerer
+	[] Witch Doctor
+	[] Clothier
+	[] Mechanic
+	[] Party Girl
+	[] Wizard
+	[] Tax Collector
+	[] Truffle
+	[] Pirate
+	[] Steampunker
+	[] Cyborg
+[] Shrine/Boss
+	[] King Slime
+	[] Eye of Cthulu
+	[] Eater of Worlds/Brain of Cthulu
+	[] Queen Bee
+	[] Wall of Flesh
+	[] Skeletron
+	[] The Twins
+	[] The Destroyer
+	[] Skeletron Prime
+	[] Plantera
+	[] Golem
+	[] Duke Fishron
+	[] Moon Lord
+	[] Betsy
+	
+**NPC**
+[] Guide
+[] Merchant
+[] Nurse
+[] Demolitionist
+[] Dye Trader
+[] Dryad
+[] Tavernkeep
+[] Arms Dealer
+[] Stylist
+[] Painter
+[] Angler
+[] Goblin Tinkerer
+[] Witch Doctor
+[] Clothier
+[] Mechanic
+[] Party Girl
+[] Wizard
+[] Tax Collector
+[] Truffle
+[] Pirate
+[] Steampunker
+[] Cyborg
